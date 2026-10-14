@@ -27,6 +27,9 @@ export const metadata: Metadata = {
       "Practical career guides on resumes, interviews, offers, and growth. Plain-English job-search education you can act on this week.",
   },
   robots: { index: true, follow: true },
+  other: {
+    "google-adsense-account": "ca-pub-4906207495792820",
+  },
 };
 
 const NAV = [
@@ -116,12 +119,20 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               LoanPay Career is a general-education publication about job searching and professional
               growth. Nothing here is career, legal, tax, or financial advice. Part of the
               loanpaylogic.com network:{" "}
+              <a href="https://loanpaylogic.com" style={{ color: "#1f3a5f" }}>
+                LoanPay Logic Calculators
+              </a>{" "}
+              ·{" "}
               <a href="https://tax.loanpaylogic.com" style={{ color: "#1f3a5f" }}>
                 Tax
               </a>{" "}
               ·{" "}
               <a href="https://business.loanpaylogic.com" style={{ color: "#1f3a5f" }}>
                 Business
+              </a>{" "}
+              ·{" "}
+              <a href="https://retire.loanpaylogic.com" style={{ color: "#1f3a5f" }}>
+                Retire
               </a>
               .
             </p>
