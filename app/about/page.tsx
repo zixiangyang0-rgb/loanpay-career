@@ -30,7 +30,7 @@ export default function Page() {
         About LoanPay Career
       </h1>
       <p className="sans" style={{ fontSize: 13, color: "#5b6675" }}>
-        Updated: October 2026
+        Updated: November 6, 2026
       </p>
       <hr className="rule" style={{ margin: "20px 0" }} />
       <div className="article-body">
@@ -53,12 +53,14 @@ export default function Page() {
         <h2>Who is the editorial team?</h2>
         <p>
           LoanPay Career is produced by a small editorial team. Content is researched and drafted
-          by staff career writers <strong>Maya Chen</strong> (lead career writer, covering
-          resumes, interviews, and negotiation) and <strong>Daniel Okafor</strong> (staff writer,
-          covering job-search strategy and early careers), edited by <strong>Sarah Lindqvist</strong>{" "}
-          (managing editor, responsible for accuracy review and final approval), and maintained by{" "}
-          <strong>Tom Becker</strong> (site operations). Role descriptions and responsibilities
-          are functional titles used for editorial accountability on this publication.
+          by staff career writers <strong>Sarah Mitchell</strong> (senior career writer, covering
+          resumes, interviews, and negotiation) and <strong>David Chen</strong> (staff writer,
+          covering job-search strategy and early careers), edited by{" "}
+          <strong>Emily Roberts</strong>{" "}
+          (managing editor, responsible for accuracy review and final approval). Role
+          descriptions and responsibilities are functional titles used for editorial
+          accountability on this publication. This page was last reviewed and updated on
+          November 6, 2026.
         </p>
         <p>
           Our writers consult primary public sources including the Bureau of Labor Statistics

@@ -30,7 +30,7 @@ export default function Page() {
         Contact LoanPay Career
       </h1>
       <p className="sans" style={{ fontSize: 13, color: "#5b6675" }}>
-        Updated: October 2026
+        Updated: November 6, 2026
       </p>
       <hr className="rule" style={{ margin: "20px 0" }} />
       <div className="article-body">
@@ -71,6 +71,12 @@ export default function Page() {
           Learn more about who we are on the <Link href="/about">About page</Link>, review how
           we handle data in the <Link href="/privacy-policy">Privacy Policy</Link>, or return to
           the <Link href="/">homepage hub</Link> to keep reading our career guides.
+        </p>
+        <p>
+          Messages to this page are read by our editorial team: <strong>Sarah Mitchell</strong>{" "}
+          (senior career writer), <strong>David Chen</strong> (fact-checking reviewer), and{" "}
+          <strong>Emily Roberts</strong> (managing editor). This page was last reviewed and
+          updated on November 6, 2026.
         </p>
       </div>
     </article>
