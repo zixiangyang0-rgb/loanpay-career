@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/resume-writing-guide", label: "Resume Writing Guide: Get More Interviews" },
           { href: "/thank-you-email-after-interview", label: "Thank-You Email After Interview Scripts" },
           { href: "/job-interview-prep-guide", label: "Job Interview Prep Guide: Two-Week Plan" },
-        ]}
+          { href: "/ats-resume-tips", label: "ATS Resume Tips: Beat the Software Screen" },
+]}
       >
         <p>
           Most cover letters fail for the same reason: they summarize the resume in paragraph form

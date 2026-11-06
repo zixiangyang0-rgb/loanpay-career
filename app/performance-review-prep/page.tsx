@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/promotion-ask-guide", label: "Promotion Ask Guide: Scripts That Work" },
           { href: "/star-method-guide", label: "STAR Method Guide: Answer Behavioral Questions" },
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
-        ]}
+          { href: "/negotiating-benefits-guide", label: "Negotiating Benefits: Beyond Salary Wins" },
+]}
       >
         <p>
           Performance reviews feel like judgment day because for compensation they partly are:

@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/entry-level-jobs-guide", label: "Entry-Level Jobs Guide: Land Role One" },
           { href: "/resume-writing-guide", label: "Resume Writing Guide: Get More Interviews" },
           { href: "/performance-review-prep", label: "Performance Review Prep: Prove Your Impact" },
-        ]}
+          { href: "/cover-letter-guide", label: "Cover Letter Guide: Structure & Examples That Work" },
+]}
       >
         <p>
           An internship is a two-way audition compressed into weeks, and both sides know it.

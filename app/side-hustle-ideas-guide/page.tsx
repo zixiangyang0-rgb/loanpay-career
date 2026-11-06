@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/freelance-vs-full-time-guide", label: "Freelance vs Full-Time: Choose Your Path" },
           { href: "/personal-branding-basics", label: "Personal Branding Basics That Get Noticed" },
           { href: "/remote-job-search-guide", label: "Remote Job Search Guide: Get Hired Anywhere" },
-        ]}
+          { href: "/career-change-guide", label: "Career Change Guide: Pivot Without Starting Over" },
+]}
       >
         <p>
           Side hustles compound Independently of salary cycles: extra income, new skills, client

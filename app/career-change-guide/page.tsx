@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/resume-writing-guide", label: "Resume Writing Guide: Get More Interviews" },
           { href: "/informational-interviews-guide", label: "Informational Interviews: Scripts & Setup" },
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
-        ]}
+          { href: "/professional-networking-guide", label: "Professional Networking Guide: Get More Referrals" },
+]}
       >
         <p>
           Career changes fail for two reasons: picking targets that discard your advantages, and

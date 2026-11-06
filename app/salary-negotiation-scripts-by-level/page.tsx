@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts That Raise Pay" },
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
           { href: "/negotiating-benefits-guide", label: "Negotiating Benefits Beyond Salary" },
-        ]}
+          { href: "/promotion-ask-guide", label: "Promotion Ask Guide: Scripts That Win Raises" },
+]}
       >
         <p>
           Generic negotiation advice fails because a new graduate and a director face completely

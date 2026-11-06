@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/job-interview-prep-guide", label: "Job Interview Prep Guide: Two-Week Plan" },
           { href: "/star-method-guide", label: "STAR Method Guide: Answer Behavioral Questions" },
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
-        ]}
+          { href: "/thank-you-email-after-interview", label: "Thank-You Email After Interview: Scripts That Win" },
+]}
       >
         <p>
           Every question below follows the same triplet: the question, the approach that scores

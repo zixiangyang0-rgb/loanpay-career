@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
           { href: "/remote-job-search-guide", label: "Remote Job Search Guide: Get Hired Anywhere" },
-        ]}
+          { href: "/salary-negotiation-scripts-by-level", label: "Salary Negotiation Scripts by Level: Entry to Executive" },
+]}
       >
         <p>
           Benefits negotiations reward the candidate who did arithmetic while others fixated on

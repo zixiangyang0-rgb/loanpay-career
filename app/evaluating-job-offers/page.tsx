@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
           { href: "/negotiating-benefits-guide", label: "Negotiating Benefits Beyond Salary" },
           { href: "/how-to-quit-job-gracefully", label: "How to Quit Your Job Gracefully" },
-        ]}
+          { href: "/cost-of-living-salary-calculator", label: "Cost of Living Salary Calculator: Remote vs Office Pay" },
+]}
       >
         <p>
           Offer euphoria is the enemy of good decisions. After weeks of interviews, the instinct is

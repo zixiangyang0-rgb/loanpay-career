@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/references-guide", label: "References Guide: Line Up Advocates" },
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
           { href: "/promotion-ask-guide", label: "Promotion Ask Guide: Scripts That Work" },
-        ]}
+          { href: "/freelance-vs-full-time-guide", label: "Freelance vs Full-Time: Choose Your Best Path" },
+]}
       >
         <p>
           Resignation is a performance with a long tail: the ten-minute conversation ends, but

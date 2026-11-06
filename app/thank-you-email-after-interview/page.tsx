@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/job-interview-prep-guide", label: "Job Interview Prep Guide: Two-Week Plan" },
           { href: "/common-interview-questions", label: "Common Interview Questions & Answers" },
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
-        ]}
+          { href: "/references-guide", label: "References Guide: Line Up Advocates Who Win" },
+]}
       >
         <p>
           The thank-you email is the cheapest persuasion in your entire job search: ten minutes of

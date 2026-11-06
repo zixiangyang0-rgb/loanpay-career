@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/professional-networking-guide", label: "Professional Networking Guide That Works" },
           { href: "/linkedin-profile-guide", label: "LinkedIn Profile Guide for Job Seekers" },
           { href: "/career-change-guide", label: "Career Change Guide: Pivot Without Starting Over" },
-        ]}
+          { href: "/job-interview-prep-guide", label: "Job Interview Prep Guide: Two-Week Plan That Works" },
+]}
       >
         <p>
           The informational interview works because it reverses the usual power dynamic: instead

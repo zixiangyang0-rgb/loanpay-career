@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/resume-writing-guide", label: "Resume Writing Guide: Get More Interviews" },
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
           { href: "/freelance-vs-full-time-guide", label: "Freelance vs Full-Time: Choose Your Path" },
-        ]}
+          { href: "/side-hustle-ideas-guide", label: "Side Hustle Ideas Guide: Earn Beyond Salary" },
+]}
       >
         <p>
           Remote job searching is a different sport from local job hunting, with its own fields,

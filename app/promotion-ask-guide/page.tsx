@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/performance-review-prep", label: "Performance Review Prep: Prove Your Impact" },
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
           { href: "/how-to-quit-job-gracefully", label: "How to Quit Your Job Gracefully" },
-        ]}
+          { href: "/negotiating-benefits-guide", label: "Negotiating Benefits: Beyond Salary Wins" },
+]}
       >
         <p>
           Managers promote people who make the decision easy and low-risk: documented next-level

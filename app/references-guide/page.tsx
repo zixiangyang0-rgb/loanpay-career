@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/background-check-guide", label: "Background Check Guide: Pass Cleanly" },
           { href: "/thank-you-email-after-interview", label: "Thank-You Email After Interview Scripts" },
           { href: "/how-to-quit-job-gracefully", label: "How to Quit Your Job Gracefully" },
-        ]}
+          { href: "/job-interview-prep-guide", label: "Job Interview Prep Guide: Two-Week Plan That Works" },
+]}
       >
         <p>
           Reference checks arrive when the offer is yours to lose, which makes preparation

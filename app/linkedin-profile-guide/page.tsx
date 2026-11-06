@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/resume-writing-guide", label: "Resume Writing Guide: Get More Interviews" },
           { href: "/professional-networking-guide", label: "Professional Networking Guide That Works" },
           { href: "/informational-interviews-guide", label: "Informational Interviews: Scripts & Setup" },
-        ]}
+          { href: "/personal-branding-basics", label: "Personal Branding Basics: Get Noticed & Hired" },
+]}
       >
         <p>
           Recruiters do not browse LinkedIn the way members do. They run filtered searches in

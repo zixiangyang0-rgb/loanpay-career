@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/linkedin-profile-guide", label: "LinkedIn Profile Guide for Job Seekers" },
           { href: "/informational-interviews-guide", label: "Informational Interviews: Scripts & Setup" },
           { href: "/personal-branding-basics", label: "Personal Branding Basics That Get Noticed" },
-        ]}
+          { href: "/career-change-guide", label: "Career Change Guide: Pivot Without Starting Over" },
+]}
       >
         <p>
           Networking is simply helping people and staying visible so opportunities find you. The

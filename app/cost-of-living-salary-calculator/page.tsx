@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
           { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts & Ranges" },
           { href: "/remote-job-search-guide", label: "Remote Job Search Guide: Find Real Roles" },
-        ]}
+          { href: "/negotiating-benefits-guide", label: "Negotiating Benefits: Beyond Salary Wins" },
+]}
       >
         <p>
           The same $95,000 salary buys a comfortable life in one city and a roommate situation in

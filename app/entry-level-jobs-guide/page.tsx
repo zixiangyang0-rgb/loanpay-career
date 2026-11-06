@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/resume-writing-guide", label: "Resume Writing Guide: Get More Interviews" },
           { href: "/internship-guide", label: "Internship Guide: Convert to Full-Time" },
           { href: "/common-interview-questions", label: "Common Interview Questions & Answers" },
-        ]}
+          { href: "/cover-letter-guide", label: "Cover Letter Guide: Structure & Examples That Work" },
+]}
       >
         <p>
           Entry-level hiring looks paradoxical from the outside: postings demanding experience for

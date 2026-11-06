@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
           { href: "/negotiating-benefits-guide", label: "Negotiating Benefits Beyond Salary" },
           { href: "/common-interview-questions", label: "Common Interview Questions & Answers" },
-        ]}
+          { href: "/salary-negotiation-scripts-by-level", label: "Salary Negotiation Scripts by Level: Entry to Executive" },
+]}
       >
         <p>
           Salary negotiation is a data conversation wrapped in enthusiasm, not a confrontation.

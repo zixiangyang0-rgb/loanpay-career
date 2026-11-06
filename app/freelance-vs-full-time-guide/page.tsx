@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/side-hustle-ideas-guide", label: "Side Hustle Ideas Guide: Earn Beyond Salary" },
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
           { href: "/remote-job-search-guide", label: "Remote Job Search Guide: Get Hired Anywhere" },
-        ]}
+          { href: "/career-change-guide", label: "Career Change Guide: Pivot Without Starting Over" },
+]}
       >
         <p>
           The freelance versus full-time debate generates more heat than light because advocates

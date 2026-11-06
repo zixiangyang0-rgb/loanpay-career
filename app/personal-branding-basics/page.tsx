@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/linkedin-profile-guide", label: "LinkedIn Profile Guide for Job Seekers" },
           { href: "/professional-networking-guide", label: "Professional Networking Guide That Works" },
           { href: "/side-hustle-ideas-guide", label: "Side Hustle Ideas Guide: Earn Beyond Salary" },
-        ]}
+          { href: "/freelance-vs-full-time-guide", label: "Freelance vs Full-Time: Choose Your Best Path" },
+]}
       >
         <p>
           Personal branding for job seekers is applied reputation engineering: choose a clear

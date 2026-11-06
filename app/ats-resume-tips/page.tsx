@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/resume-writing-guide", label: "Resume Writing Guide: Get More Interviews" },
           { href: "/cover-letter-guide", label: "Cover Letter Guide: Structure That Works" },
           { href: "/entry-level-jobs-guide", label: "Entry-Level Jobs Guide: Land Role One" },
-        ]}
+          { href: "/linkedin-profile-guide", label: "LinkedIn Profile Guide: Get Found by Recruiters" },
+]}
       >
         <p>
           An applicant tracking system is a database with opinions: it parses your resume into

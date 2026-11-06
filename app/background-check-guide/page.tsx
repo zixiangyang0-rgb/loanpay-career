@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/references-guide", label: "References Guide: Line Up Advocates" },
           { href: "/evaluating-job-offers", label: "Evaluating Job Offers: Total-Package Math" },
           { href: "/how-to-quit-job-gracefully", label: "How to Quit Your Job Gracefully" },
-        ]}
+          { href: "/job-interview-prep-guide", label: "Job Interview Prep Guide: Two-Week Plan That Works" },
+]}
       >
         <p>
           Background checks feel ominous because they happen after emotional commitment to an

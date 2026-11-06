@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/common-interview-questions", label: "Common Interview Questions & Answers" },
           { href: "/job-interview-prep-guide", label: "Job Interview Prep Guide: Two-Week Plan" },
           { href: "/performance-review-prep", label: "Performance Review Prep: Prove Your Impact" },
-        ]}
+          { href: "/thank-you-email-after-interview", label: "Thank-You Email After Interview: Scripts That Win" },
+]}
       >
         <p>
           Behavioral questions all sound different but test the same thing: can you describe

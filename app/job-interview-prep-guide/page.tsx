@@ -65,7 +65,8 @@ export default function Page() {
           { href: "/common-interview-questions", label: "Common Interview Questions & Answers" },
           { href: "/star-method-guide", label: "STAR Method Guide: Answer Behavioral Questions" },
           { href: "/thank-you-email-after-interview", label: "Thank-You Email After Interview Scripts" },
-        ]}
+          { href: "/salary-negotiation-guide", label: "Salary Negotiation Guide: Scripts That Raise Pay" },
+]}
       >
         <p>
           Interview success is mostly manufactured before you enter the room. Hiring managers

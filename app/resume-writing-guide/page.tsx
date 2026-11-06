@@ -61,7 +61,8 @@ export default function Page() {
           { href: "/ats-resume-tips", label: "ATS Resume Tips: Beat the Software Screen" },
           { href: "/cover-letter-guide", label: "Cover Letter Guide: Structure That Works" },
           { href: "/linkedin-profile-guide", label: "LinkedIn Profile Guide for Job Seekers" },
-        ]}
+          { href: "/career-change-guide", label: "Career Change Guide: Pivot Without Starting Over" },
+]}
       >
         <Byline />
         <p>
