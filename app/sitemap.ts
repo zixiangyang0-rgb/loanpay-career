@@ -11,6 +11,8 @@ const PATHS = [
   "/common-interview-questions",
   "/star-method-guide",
   "/salary-negotiation-guide",
+  "/salary-negotiation-scripts-by-level",
+  "/cost-of-living-salary-calculator",
   "/evaluating-job-offers",
   "/remote-job-search-guide",
   "/career-change-guide",
