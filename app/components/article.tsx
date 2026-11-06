@@ -20,6 +20,38 @@ export function FaqJsonLd({ faqs }: { faqs: Faq[] }) {
   );
 }
 
+export function OfficialBox() {
+  return (
+    <section
+      aria-label="Official sources"
+      className="sans"
+      style={{
+        marginTop: 20,
+        border: "1px solid #d7e0ec",
+        borderRadius: 10,
+        background: "#f2f6fb",
+        padding: "14px 16px",
+      }}
+    >
+      <p style={{ fontSize: 13, fontWeight: 700, color: "#1f3a5f", margin: "0 0 8px 0" }}>
+        Official sources
+      </p>
+      <ul style={{ listStyle: "none", padding: 0, margin: 0, display: "grid", gap: 6, fontSize: 14 }}>
+        <li>
+          <a href="https://www.bls.gov/ooh">
+            U.S. Bureau of Labor Statistics — Occupational Outlook Handbook (bls.gov)
+          </a>
+        </li>
+        <li>
+          <a href="https://www.careeronestop.org">
+            U.S. Department of Labor — CareerOneStop (careeronestop.org)
+          </a>
+        </li>
+      </ul>
+    </section>
+  );
+}
+
 export function ArticleShell({
   kicker,
   title,
@@ -74,7 +106,8 @@ export function ArticleShell({
         ))}
       </section>
       <hr className="rule" style={{ margin: "28px 0 16px 0" }} />
-      <p className="sans" style={{ fontSize: 13, color: "#5b6675", lineHeight: 1.7 }}>
+      <OfficialBox />
+      <p className="sans" style={{ fontSize: 13, color: "#5b6675", lineHeight: 1.7, marginTop: 16 }}>
         This guide is general education, not career or legal advice. For situations involving
         contracts, immigration status, or disputes, talk to a qualified professional. See our{" "}
         <Link href="/disclaimer">Disclaimer</Link>.
