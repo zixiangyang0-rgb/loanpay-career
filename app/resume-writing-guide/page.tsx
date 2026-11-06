@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { ArticleShell, type Faq } from "../components/article";
-import { ESCAPED_LT, faqJsonLd } from "../lib/site";
+import { Byline, GuideSchema } from "../components/schema";
 
 const faqs: Faq[] = [
   {
@@ -25,6 +25,8 @@ const faqs: Faq[] = [
   },
 ];
 
+const guideFaqs = faqs.map((f) => ({ question: f.q, answer: f.a }));
+
 export const metadata: Metadata = {
   title: "Resume Writing Guide: Build a Resume That Gets Interviews",
   description:
@@ -48,12 +50,6 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(faqJsonLd(faqs)).replace(/</g, ESCAPED_LT),
-        }}
-      />
       <ArticleShell
         kicker="Resume & Applications"
         title="Resume Writing Guide: Build a Resume That Gets Interviews"
@@ -67,6 +63,7 @@ export default function Page() {
           { href: "/linkedin-profile-guide", label: "LinkedIn Profile Guide for Job Seekers" },
         ]}
       >
+        <Byline />
         <p>
           Hiring managers do not read resumes the way applicants hope they do. Eye-tracking studies
           of recruiter behavior consistently show an initial scan of roughly six to ten seconds,
@@ -258,6 +255,12 @@ export default function Page() {
           checklists worth using before you hit submit.
         </p>
       </ArticleShell>
+      <GuideSchema
+        title="Resume Writing Guide: Build a Resume That Gets Interviews"
+        description="Resume writing guide with formats, bullet formulas, tailoring checklists, real examples & ATS tips. Build interview-winning resumes — start building today."
+        slug="resume-writing-guide"
+        faqs={guideFaqs}
+      />
     </>
   );
 }

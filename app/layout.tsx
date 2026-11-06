@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import Link from "next/link";
+import { OrgJsonLd } from "./components/schema";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -51,6 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           crossOrigin="anonymous"
           strategy="lazyOnload"
         />
+        <OrgJsonLd />
         <header className="sans" style={{ borderBottom: "1px solid #e3e8ef" }}>
           <div style={{ maxWidth: 1080, margin: "0 auto", padding: "0 20px" }}>
             <div
